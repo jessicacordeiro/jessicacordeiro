@@ -4,7 +4,7 @@
 
 ### 🌈 Seja bem vinde ao meu perfil! 🌈 
 
-- 👩‍💻 Generation Brasil - Desenvolvedora Java Jr. em Formação
+- 👩‍💻 Desenvolvedora Java Jr. em Formação - Generation Brasil 
 - :mortar_board: Formada em Relações Públicas na UAM
 - 🦄 Uma sonhadora que está em busca de alguma fórmula mágica para mesclar duas áreas distintas como Comunicação e Tecnologia...
 
