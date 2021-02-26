@@ -1,21 +1,4 @@
-<!-- ### Hi there 👋
-
-<!--
-**jessicacordeiro/jessicacordeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<img align="right" width="360px" src="https://media.giphy.com/media/gx54W1mSpeYMg/giphy.gif">
+<img align="right" width="350px" src="https://media.giphy.com/media/gx54W1mSpeYMg/giphy.gif">
 
 # Olá, meu nome é Jéssica  <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="40px"> 
 
@@ -36,5 +19,5 @@ Here are some ideas to get you started:
 ![GitHub](https://camo.githubusercontent.com/85dc47a56a4e73ae7b6e64b3b4416785497e74219ae179ae8faaaca10d5a78d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562)
 ![Eclipse](https://camo.githubusercontent.com/5395fa328395998163ba3ae03e20eb6cd633c2535f4149cc6b2f5fa40113ecaf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d45636c697073652d3243323235353f7374796c653d666c61742d737175617265266c6f676f3d65636c69707365266c6f676f436f6c6f723d7768697465)
 
-<img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicacordeiro&layout=compact&theme=vision-friendly-dark" />
-<img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=jessicacordeiro&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
+<img align="left"  width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicacordeiro&layout=compact&theme=vision-friendly-dark" />
+<img align="right" width="440px" src="https://github-readme-stats.vercel.app/api?username=jessicacordeiro&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
