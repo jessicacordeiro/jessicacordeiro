@@ -1,4 +1,4 @@
-<img align="right" width="310px" src="https://media.giphy.com/media/gx54W1mSpeYMg/giphy.gif">
+<img align="right" width="300px" src="https://media.giphy.com/media/gx54W1mSpeYMg/giphy.gif">
 
 # Olá, meu nome é Jéssica  <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="40px"> 
 
