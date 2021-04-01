@@ -1,7 +1,7 @@
 
 <img style="margin-top: 40px;" align="right" width="400px" src="https://media.giphy.com/media/8l0jD8xJYFk3HD3bMW/giphy.gif">
 
-# ---> Heeeeeeeey guys! <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="25px">
+# ---> Heeeeeeeey guys! <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="30px">
 
 ### 🌈 Seja bem vinde ao meu perfil! 🌈 
 
