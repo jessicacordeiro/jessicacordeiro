@@ -1,5 +1,5 @@
 
-# ---> Heeeeeeeey guys! <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="40px"><img align="right" width="260px" src="https://media.giphy.com/media/Mw5ff1UltHnCrko9Qj/giphy.gif">
+# ---> Heeeeeeeey guys! <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="40px"><img align="right" width="400px" hight="600" src="https://media.giphy.com/media/8l0jD8xJYFk3HD3bMW/giphy.gif">
 
 ### 🌈 Seja bem vinde ao meu perfil! 🌈 
 
