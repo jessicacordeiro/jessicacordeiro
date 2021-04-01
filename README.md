@@ -1,9 +1,9 @@
 
 <img style="margin-top: 40px;" align="right" width="400px" src="https://media.giphy.com/media/8l0jD8xJYFk3HD3bMW/giphy.gif">
 
-# ---> Heeeeeeeey guys! <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="40px">
+## ---> Heeeeeeeey guys! <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="40px">
 
-### 🌈 Seja bem vinde ao meu perfil! 🌈 
+#### 🌈 Seja bem vinde ao meu perfil! 🌈 
 
 - 👩‍💻 Desenvolvedora Java Jr. em Formação - Generation Brasil 
 - :mortar_board: Formada em Relações Públicas na UAM
