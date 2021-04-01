@@ -1,5 +1,5 @@
 
-<img align="right" width="400px" src="https://media.giphy.com/media/8l0jD8xJYFk3HD3bMW/giphy.gif">
+<img class="mt-5" align="right" width="400px" src="https://media.giphy.com/media/8l0jD8xJYFk3HD3bMW/giphy.gif">
 
 # ---> Heeeeeeeey guys! <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="40px">
 
