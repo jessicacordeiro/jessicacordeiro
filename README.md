@@ -3,11 +3,12 @@
 
 # ---> Heeeeeeeey guys! <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="30">
 
-### 🌈 Seja bem vinde ao meu perfil! 🌈 
+### 🌈 Boas vindas ao meu perfil! 🌈 
 
 - 👩‍💻 Formada como Desenvolvedora Java Jr - Generation Brasil 
 - :mortar_board: Formada em Relações Públicas na UAM
 - 🦄 Uma sonhadora que está em busca de alguma fórmula mágica para mesclar duas áreas distintas como Comunicação e Tecnologia...
+- 🧡 Desenvolvedora Front-end no Itaú Unibanco
 
 # Tools and GitHub Stats <img src="https://media.giphy.com/media/fvT2uzkzsSWmmkvl5g/giphy.gif" width="35">
 
